@@ -27,7 +27,8 @@ The list of Syphon enabled applications keeps growing. Here are is a sample of i
 You can mix these tools and more to find unique solutions to your creative problems.
 
 
-<div align="center" style="margin-bottom:20px">
+<div align="center" style="margin-bottom:20px; margin-top:20px">
+
 {% for app in site.hero_apps %}
 
 <a href="{{ app.url }}"><img src="app_icons/{{app.icon}}" style="padding:5px"></a>
@@ -37,7 +38,7 @@ You can mix these tools and more to find unique solutions to your creative probl
 </div>
 
 
-<div align="justify" style="margin-bottom:20px">
+<div align="center" style="margin-bottom:20px; margin-top:20px">
 
 {% for app in site.apps %}
 
