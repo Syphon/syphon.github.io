@@ -11,7 +11,6 @@ layout: home
 Syphon is an [open source](http://github.com/syphon) Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime. Now you can leverage the expressive power of a plethora of tools to mix, mash, edit, sample, texture-map, synthesize, and present your imagery using the best tool for each part of the job. Syphon gives you flexibility to break out of single-app solutions and mix creative applications to suit your needs.
 
 
-
 # Features
 
 Syphon provides an ecosystem for sharing imagery between applications and new media development environments. Syphon is designed to be efficient and will not duplicate resources unnecessarily, keeping your frame rate and best interests in mind.
@@ -42,7 +41,7 @@ You can mix these tools and more to find unique solutions to your creative probl
 
 {% for app in site.apps %}
 
-<a href="{{ app.url }}"><img src="app_icons/{{app.icon}}" width="40px" height="40px" style="padding:5px"></a>
+<a href="{{ app.url }}" title="{{app.title}}"><img src="app_icons/{{app.icon}}" width="40px" height="40px" style="padding:10px"></a>
 
 {% endfor %}
 
