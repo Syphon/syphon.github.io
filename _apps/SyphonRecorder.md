@@ -1,5 +1,5 @@
 ---
 icon : "Syphon_Recorder_128.png"
-url : "/recorder"
+website : "/recorder"
 title: "Syphon Recorder"
 ---

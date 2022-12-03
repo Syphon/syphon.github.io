@@ -1,5 +1,5 @@
 ---
 icon : "Magic_128.png"
-url : "http://magicmusicvisuals.com"
+website : "http://magicmusicvisuals.com"
 title: "Magic"
 ---

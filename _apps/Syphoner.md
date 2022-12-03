@@ -1,5 +1,5 @@
 ---
 icon : "Syphoner_128.png"
-url : "http://www.sigmasix.ch/syphoner/"
+website : "http://www.sigmasix.ch/syphoner/"
 title: "Syphoner"
 ---

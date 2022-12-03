@@ -1,5 +1,5 @@
 ---
 icon : "ZVector_128.png"
-url : "https://z-vector.com"
+website : "https://z-vector.com"
 title: "Z-Vector"
 ---

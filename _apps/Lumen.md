@@ -1,5 +1,5 @@
 ---
 icon : "Lumen_128.png"
-url : "http://lumen-app.com"
+website : "http://lumen-app.com"
 title: "Lumen"
 ---

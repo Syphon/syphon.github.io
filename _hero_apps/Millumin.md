@@ -1,4 +1,4 @@
 ---
 icon : "Millumin_128.png"
-url : "https://millumin.com/v4/index.php"
+website : "https://millumin.com/v4/index.php"
 ---

@@ -31,18 +31,18 @@ You can mix these tools and more to find unique solutions to your creative probl
 
 {% for app in site.hero_apps %}
 
-<a href="{{ app.url }}"><img src="app_icons/{{app.icon}}" style="padding:5px"></a>
+<a href="{{ app.website }}"><img src="app_icons/{{app.icon}}" style="padding:10px"></a>
 
 {% endfor %}
 
 </div>
 
 
-<div align="center" style="margin-bottom:2px; margin-top:20px">
+<div align="center" style="margin-bottom:20px; margin-top:20px">
 
 {% for app in site.apps %}
 
-<a href="{{ app.url }}" title="{{app.title}}"><img src="app_icons/{{app.icon}}" width="45px" height="45px" style="padding:15px"></a>
+<a href="{{ app.website }}" title="{{app.title}}"><img src="app_icons/{{app.icon}}" width="45px" height="45px" style="padding:20px"></a>
 
 {% endfor %}
 
@@ -59,14 +59,20 @@ You can mix these tools and more to find unique solutions to your creative probl
 If you’d like to get involved, join us at the GitHub projects for the framework and implementations.
 
 
+# Proudly Sponsored By
+
+Syphon is designed for and by new media technologists, realtime video artists and visualists. It is a labor of love, developed in the spare time of the authors. It is open, free and a gift to the new media community. If Syphon is useful to you or an application you are developing, please consider contributing or sponsoring to help continue development and support the cause.
+
+
+
 # Contact and Support
 
-Some common questions are answered in our FAQ. If you have questions about a product which integrates Syphon, please contact the developer of that produce for support. Developers can report issues or request features for the Syphon framework on GitHub.
+Some common questions are answered in our [FAQ](/faq). If you have questions about a product which integrates Syphon, please contact the developer of that produce for support. Developers can report issues or request features for the [Syphon framework on GitHub](https://github.com/Syphon/Syphon-Framework/).
 
 
 # Authors
 
-Syphon.framework, test suite, and initial implementations are written by Tom Butterworth and Anton Marini.
+Syphon.framework, test suite, and initial implementations are written by [Tom Butterworth](http://kriss.cx/tom) and [Anton Marini](https://vade.info).
 
 # License
 

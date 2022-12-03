@@ -1,5 +1,5 @@
 ---
 icon : "MXWendler_128.png"
-url : "http://www.mxwendler.net/"
+website : "http://www.mxwendler.net/"
 title: "MXWendler"
 ---

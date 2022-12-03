@@ -1,5 +1,5 @@
 ---
 icon : "OF_128.png"
-url : "http://github.com/astellato/ofxSyphon"
+website : "http://github.com/astellato/ofxSyphon"
 title: "OpenFrameworks"
 ---

@@ -1,5 +1,5 @@
 ---
 icon : "Blendy_128.png"
-url : "https://blendyvj.com/"
+website : "https://blendyvj.com/"
 title: "Blendy VJ"
 ---

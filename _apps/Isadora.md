@@ -1,5 +1,5 @@
 ---
 icon : "Isadora_128.png"
-url : "http://troikatronix.com/"
+website : "http://troikatronix.com/"
 title: "Isadora"
 ---
