@@ -42,7 +42,7 @@ You can mix these tools and more to find unique solutions to your creative probl
 
 {% for app in site.apps %}
 
-<a href="{{ app.url }}" title="{{app.title}}"><img src="app_icons/{{app.icon}}" width="40px" height="40px" style="padding:10px"></a>
+<a href="{{ app.url }}" title="{{app.title}}"><img src="app_icons/{{app.icon}}" width="45px" height="45px" style="padding:10px"></a>
 
 {% endfor %}
 
