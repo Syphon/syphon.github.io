@@ -1,5 +1,5 @@
 ---
-icon : "DiscoBrick_128.png"
-url : "http://www.discobrick.com"
-title: "DiscoBrick"
+icon : "Dragonframe_128.png"
+url : "https://www.dragonframe.com"
+title: "Dragonframe"
 ---
