@@ -4,8 +4,10 @@
 
 layout: home
 header: Headers/Header.png
-
+title: "Syphon"
 ---
+
+![Syphon]({{header}} "Title")
 
 
 # Introducing Syphon
