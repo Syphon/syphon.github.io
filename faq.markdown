@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-# Syphon FAQ
+![Syphon](Headers/Header.png "Syphon")
 
 
 			
