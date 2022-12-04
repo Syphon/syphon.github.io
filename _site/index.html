@@ -55,13 +55,16 @@
 <p>Syphon provides an ecosystem for sharing imagery between applications and new media development environments. Syphon is designed to be efficient and will not duplicate resources unnecessarily, keeping your frame rate and best interests in mind.</p>
 
 <ul>
-  <li>Hardware acceleration on the GPU where it belongs. No additional latency with GPU transfers.</li>
-  <li>Zero Copy by leveraging IOSurface</li>
-  <li>Support arbitrary resolutions - up to your GPU’s limit. Typically 16k x 16k</li>
+  <li>Hardware accelerated surface sharing on the GPU where it belongs.</li>
+  <li>No additional latency with GPU transfers.</li>
+  <li>Zero Copy by leveraging IOSurface.</li>
+  <li>Support arbitrary resolutions up to your GPU’s limit. Typically 16k x 16k.</li>
   <li>Support abritrary frame rates.</li>
-  <li>Alpha-channels - share rendered 3D content and video with masks and keys, allowing compositing to happen easily and naturally.</li>
-  <li>A simple SDK so developers can add Syphon to just about any application</li>
+  <li>Support Alpha-channels - share rendered 3D content and video with masks and keys, allowing compositing to happen easily and naturally.</li>
   <li>Compatible with MacOS X 10.6 (Snow Leopard) or later.</li>
+  <li>Compatible with Legacy OpenGL, Core Profile OpenGL, and Metal back ends.</li>
+  <li>Interoperable between renderers. Share frames between OpenGL and Metal Renders out of the box.</li>
+  <li>A simple SDK so developers can add Syphon to just about any application.</li>
 </ul>
 
 <h1 id="applications">Applications</h1>
