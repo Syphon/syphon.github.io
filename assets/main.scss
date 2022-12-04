@@ -10,10 +10,9 @@ body { background: url("/background.gif") repeat; color: #333; }
 @media screen and (max-width: 1024px) { .wrapper { max-width: -webkit-calc(1024px - (30px)); max-width: calc(1024px - (30px));  } }
 
 /** Links */
-a { color: #2a7ae2; text-decoration: none; }
 
+a { color: #FF5B00; text-decoration: none; }
 a:visited { color: #FF5B00; }
-
 a:hover { color: #FF5B00; text-decoration: underline; }
 
 .site-title, .site-title:visited { color: #222; }
