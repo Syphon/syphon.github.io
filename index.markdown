@@ -31,7 +31,7 @@ You can mix these tools and more to find unique solutions to your creative probl
 
 {% for app in site.hero_apps %}
 
-<a href="{{ app.website }}"><img src="app_icons/{{app.icon}}" style="padding:10px"></a>
+<a href="{{ app.website }}"><img src="app_icons/{{app.icon}}" width="128" height="128" style="padding:10px"></a>
 
 {% endfor %}
 
@@ -65,7 +65,7 @@ If you’d like to get involved, join us at the GitHub projects for the framewor
 
 {% for sponsor in site.sponsors %}
 
-<a href="{{ sponsor.website }}" title="{{sponsor.title}}"><img src="sponsors/{{sponsor.icon}}" style="padding:10px"></a>
+<a href="{{ sponsor.website }}" title="{{sponsor.title}}"><img src="sponsors/{{sponsor.icon}}" width="128" height="128" style="padding:10px"></a>
 
 {% endfor %}
 
