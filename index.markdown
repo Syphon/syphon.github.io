@@ -7,7 +7,7 @@ header: Headers/Header.png
 title: "Syphon"
 ---
 
-![Syphon]("Headers/Header.png" "Syphon")
+![Syphon](Headers/Header.png "Syphon")
 
 
 # Introducing Syphon
