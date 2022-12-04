@@ -19,7 +19,7 @@ Syphon provides an ecosystem for sharing imagery between applications and new me
 * Zero copy.
 * Support arbitrary resolutions up to your GPU's limit. Typically 16k x 16k.
 * Support abritrary frame rates.
-* Support Alpha-channels - share rendered 3D content and video with masks and keys, allowing compositing to happen easily and naturally.
+* Support alpha-channels.
 * Compatible with MacOS X 10.6 (Snow Leopard) or later.
 * Compatible with Legacy OpenGL, Core Profile OpenGL, and Metal back ends.
 * Interoperable between renderers. Share frames between OpenGL and Metal Renders out of the box.
@@ -27,7 +27,7 @@ Syphon provides an ecosystem for sharing imagery between applications and new me
 
 # Applications
 
-The list of Syphon enabled applications keeps growing. Here are is a sample of interoperable applications, inlcuding live performance, content creation, show control, visualizers, development, creative coding, live coding, patching environments, game engines, projection mapping, and capture tools.
+The list of Syphon enabled applications keeps growing. Here are is a sample of interoperable applications, inlcuding live performance, content creation, show control, visualizers, development, creative coding, live coding, patching environments, game engines, projection mapping, capture tools and broadcast playout.
 
 You can mix these tools and more to find unique solutions to your creative problems.
 
