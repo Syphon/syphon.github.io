@@ -16,7 +16,7 @@ Syphon provides an ecosystem for sharing imagery between applications and new me
 
 * Hardware accelerated surface sharing on the GPU where it belongs. 
 * Zero latency.
-* Zero Copy.
+* Zero copy.
 * Support arbitrary resolutions up to your GPU's limit. Typically 16k x 16k.
 * Support abritrary frame rates.
 * Support Alpha-channels - share rendered 3D content and video with masks and keys, allowing compositing to happen easily and naturally.
