@@ -21,7 +21,7 @@
 title: Syphon
 email: contact@syphon.info
 description: >- # this means to ignore newlines until "baseurl:"
-  Syphon is an open source Mac OS X plugin technology that allows applications to share frames - full frame rate video or stills - with one another in realtime, instantly. No rendering to a file, no screen capture involved. This means you can leverage the expressive power of a plethora of tools and mix, mash, edit, sample, texture map, synthesize, and present your imagery using the best tool for the job. Syphon gives you flexibility to break out of existing graphics pipelines and mix creative applications to suite your need.
+  Realtime video sharing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://syphon.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _syphon
@@ -62,3 +62,4 @@ collections:
       - Arkaos.md
       - Millumin.md
   apps:
+  sponsors:

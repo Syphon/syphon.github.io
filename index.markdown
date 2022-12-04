@@ -5,8 +5,10 @@
 layout: home
 ---
 
+![Syphon](Headers/Header.png "Syphon")
 
-# Introducting Syphon
+
+# Introducing Syphon
 
 Syphon is an [open source](http://github.com/syphon) Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime. Now you can leverage the expressive power of a plethora of tools to mix, mash, edit, sample, texture-map, synthesize, and present your imagery using the best tool for each part of the job. Syphon gives you flexibility to break out of single-app solutions and mix creative applications to suit your needs.
 
@@ -31,7 +33,7 @@ You can mix these tools and more to find unique solutions to your creative probl
 
 {% for app in site.hero_apps %}
 
-<a href="{{ app.website }}"><img src="app_icons/{{app.icon}}" style="padding:10px"></a>
+<a href="{{ app.website }}"><img src="app_icons/{{app.icon}}" width="128" height="128" style="padding:10px"></a>
 
 {% endfor %}
 
@@ -51,16 +53,32 @@ You can mix these tools and more to find unique solutions to your creative probl
 # Developer SDK
 
 
-* Syphon.framework allows 3rd party developers to leverage frame-sharing in their applications or plugins. A simple Objective-C interface allows the publishing and acquisition of frames in very few lines of code. Under the hood, Syphon uses the power of IOSurface plus a selection of Cocoa and Core Foundation technologies to manage the communication between servers and clients. (download, documentation)
+* ![SDK](app_icons/Xcode_icon.png "SDK") [Syphon.framework](https://github.com/Syphon/Syphon-Framework) allows 3rd party developers to leverage frame-sharing in their applications or plugins. A simple Objective-C interface allows the publishing and acquisition of frames in very few lines of code. Under the hood, Syphon uses the power of IOSurface plus a selection of Cocoa and Core Foundation technologies to manage the communication between servers and clients. (download, documentation)
 
-* Simple Server/Client A pair of applications to test Syphon functionality (download)
+* ![Syphon Client and Server](app_icons/Syphon_32.png "Syphon Client and Server") [Simple Server/Client](https://github.com/Syphon/Simple) A pair of applications to test Syphon functionality (download)
 
 
-If you’d like to get involved, join us at the GitHub projects for the framework and implementations.
+If you’d like to get involved, join us at the [GitHub projects](http://github.com/Syphon) for the framework and implementations.
 
 
 # Proudly Sponsored By
 
+<div align="center" style="margin-bottom:20px; margin-top:20px">
+
+{% for sponsor in site.sponsors %}
+
+<a href="{{ sponsor.website }}" title="{{sponsor.title}}"><img src="sponsors/{{sponsor.icon}}" width="128" height="128" style="padding:10px"></a>
+
+{% endfor %}
+
+	<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input 	type="hidden" name="cmd" value="_s-xclick">
+		<input type="hidden" name="hosted_button_id" value="C98K2YZNQ8YSW">
+		<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+		<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+
+</div>
 Syphon is designed for and by new media technologists, realtime video artists and visualists. It is a labor of love, developed in the spare time of the authors. It is open, free and a gift to the new media community. If Syphon is useful to you or an application you are developing, please consider contributing or sponsoring to help continue development and support the cause.
 
 
@@ -72,8 +90,8 @@ Some common questions are answered in our [FAQ](/faq). If you have questions abo
 
 # Authors
 
-Syphon.framework, test suite, and initial implementations are written by [Tom Butterworth](http://kriss.cx/tom) and [Anton Marini](https://vade.info).
+Syphon.framework, test suite, and initial implementations are written by [Tom Butterworth](http://kriss.cx/tom) and [Anton Marini](https://vade.info) with major support from [Vidvox](http://vidvox.com) and Metal implementation input from [Millumin](www.millumin.com)
 
 # License
 
-Syphon.framework, test suite, and our provided reference implementations are licensed under a Simplified BSD software license.
+Syphon.framework, test suite, and our provided reference implementations are [licensed under a Simplified BSD software license](/license).
