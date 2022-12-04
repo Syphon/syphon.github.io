@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-header: Headers/Header.png
 title: "Syphon"
 ---
 
@@ -60,7 +59,7 @@ You can mix these tools and more to find unique solutions to your creative probl
 * ![Syphon Client and Server](app_icons/Syphon_32.png "Syphon Client and Server") Simple Server/Client A pair of applications to test Syphon functionality (download)
 
 
-If you’d like to get involved, join us at the GitHub projects for the framework and implementations.
+If you’d like to get involved, join us at the [GitHub projects](http://github.com/Syphon) for the framework and implementations.
 
 
 # Proudly Sponsored By
@@ -85,8 +84,8 @@ Some common questions are answered in our [FAQ](/faq). If you have questions abo
 
 # Authors
 
-Syphon.framework, test suite, and initial implementations are written by [Tom Butterworth](http://kriss.cx/tom) and [Anton Marini](https://vade.info).
+Syphon.framework, test suite, and initial implementations are written by [Tom Butterworth](http://kriss.cx/tom) and [Anton Marini](https://vade.info) with major support from [Vidvox](http://vidvox.com) and Metal implementation input from [Millumin](www.millumin.com)
 
 # License
 
-Syphon.framework, test suite, and our provided reference implementations are licensed under a Simplified BSD software license.
+Syphon.framework, test suite, and our provided reference implementations are [licensed under a Simplified BSD software license](/license).
