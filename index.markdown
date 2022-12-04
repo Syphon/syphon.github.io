@@ -7,7 +7,7 @@ header: Headers/Header.png
 title: "Syphon"
 ---
 
-![Syphon]({{header}} "Title")
+![Syphon]("Headers/Header.png" "Syphon")
 
 
 # Introducing Syphon
