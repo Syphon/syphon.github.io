@@ -55,9 +55,9 @@ You can mix these tools and more to find unique solutions to your creative probl
 # Developer SDK
 
 
-* Syphon.framework allows 3rd party developers to leverage frame-sharing in their applications or plugins. A simple Objective-C interface allows the publishing and acquisition of frames in very few lines of code. Under the hood, Syphon uses the power of IOSurface plus a selection of Cocoa and Core Foundation technologies to manage the communication between servers and clients. (download, documentation)
+* ![SDK](app_icons/Xcode_icon.png "SDK") Syphon.framework allows 3rd party developers to leverage frame-sharing in their applications or plugins. A simple Objective-C interface allows the publishing and acquisition of frames in very few lines of code. Under the hood, Syphon uses the power of IOSurface plus a selection of Cocoa and Core Foundation technologies to manage the communication between servers and clients. (download, documentation)
 
-* Simple Server/Client A pair of applications to test Syphon functionality (download)
+* ![Syphon Client and Server](app_icons/Syphon_32.png "Syphon Client and Server") Simple Server/Client A pair of applications to test Syphon functionality (download)
 
 
 If you’d like to get involved, join us at the GitHub projects for the framework and implementations.
