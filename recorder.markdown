@@ -6,8 +6,6 @@ layout: home
 title: "Syphon Recorder"
 ---
 
-![Syphon](Headers/Header.png "Syphon")
-
 
 # Syphon Recorder
 

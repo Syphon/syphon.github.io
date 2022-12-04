@@ -5,7 +5,6 @@
 layout: home
 ---
 
-![Syphon](Headers/Header.png "Syphon")
 
 
 # Introducing Syphon

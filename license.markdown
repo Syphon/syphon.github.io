@@ -5,8 +5,6 @@
 layout: home
 ---
 
-![Syphon](Headers/Header.png "Syphon")
-
 
 # License
 

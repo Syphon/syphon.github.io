@@ -5,7 +5,14 @@
  
 body { background: url("/background.gif") repeat; color: #333; }
 
-.wrapper { max-width: -webkit-calc(1024px - (30px * 2)); max-width: calc(1024px - (30px * 2));  min-height: 80px; background:#ddd; color:#333; margin-bottom:0px }
+.wrapper { max-width: -webkit-calc(1024px - (30px * 2)); max-width: calc(1024px - (30px * 2));  min-height: 80px; background:#ddd; color:#333; margin-top:0px;margin-bottom:0px; padding-top:30px }
+
+.main-header {
+    max-width: -webkit-calc(1024px); max-width: calc(1024px );
+    margin-left:auto;
+    margin-right:auto;
+    padding:0px;
+}
 
 @media screen and (max-width: 1024px) { .wrapper { max-width: -webkit-calc(1024px - (30px)); max-width: calc(1024px - (30px));  } }
 

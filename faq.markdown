@@ -6,8 +6,6 @@ layout: home
 ---
 
 
-![Syphon](Headers/Header.png "Syphon")
-
 
 			
 ### ***Do I need to install anything to use Syphon?***
