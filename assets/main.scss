@@ -12,9 +12,9 @@ body { background: url("/background.gif") repeat; color: #333; }
 /** Links */
 a { color: #2a7ae2; text-decoration: none; }
 
-a:visited { color: #1756a9; }
+a:visited { color: #FF5B00; }
 
-a:hover { color: #fff; text-decoration: underline; }
+a:hover { color: #FF5B00; text-decoration: underline; }
 
 .site-title, .site-title:visited { color: #222; }
 
@@ -27,3 +27,10 @@ border-top: 0px solid #e8e8e8;
 padding: 0px;
 }
 .footer-heading { display:none;}
+
+h1, h2, h3, 
+{
+    color: #4AC0F2;
+    margin-top:40px;
+    margin-bottom:40px;
+}
