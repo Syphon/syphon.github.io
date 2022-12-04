@@ -14,7 +14,9 @@ title: "Syphon Recorder"
 ### Record video in realtime and capture stills from any [Syphon Enabled Application](/)
 
 <div align="center">
+
 ![Syphon Recorder](app_icons/Syphon_Recorder_256.png "Syphon Recorder")
+
 </div>
 
 ## Download
