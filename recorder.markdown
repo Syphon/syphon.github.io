@@ -15,8 +15,7 @@ title: "Syphon Recorder"
 
 <div align="center">
 
-![Syphon Recorder](app_icons/Syphon_Recorder_256.png "Syphon Recorder")
-
+<img src="app_icons/Syphon_Recorder_256.png" title="Syphon Recorder">
 </div>
 
 ## Download
