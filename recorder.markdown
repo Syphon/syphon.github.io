@@ -13,6 +13,9 @@ title: "Syphon Recorder"
 
 ### Record video in realtime and capture stills from any [Syphon Enabled Application](/)
 
+
+![Syphon Recorder](app_icons/Syphon_Recorder_256.png "Syphon Recorder")
+
 ## Download
 
 [Download Syphon Recorder (version 19)](https://6a64.xyz/downloads/Syphon%20Recorder.zip)
