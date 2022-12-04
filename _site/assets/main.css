@@ -274,4 +274,29 @@ table td { border: 1px solid #e8e8e8; }
 
 .highlight .il { color: #099; }
 
+body { background: url("/background.gif") repeat; color: #333; }
+
+.wrapper { max-width: -webkit-calc(1024px - (30px * 2)); max-width: calc(1024px - (30px * 2)); min-height: 80px; background: #ddd; color: #333; margin-bottom: 0px; }
+
+@media screen and (max-width: 1024px) { .wrapper { max-width: -webkit-calc(1024px - (30px)); max-width: calc(1024px - (30px)); } }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #fff; text-decoration: underline; }
+
+.site-title, .site-title:visited { color: #222; }
+
+.site-nav .page-link { color: #222; }
+
+.site-header { border-top: 0px solid #424242; border-bottom: 0px solid #e8e8e8; position: relative; }
+
+.page-content { padding: 0px; margin: 0px; }
+
+.site-footer { border-top: 0px solid #e8e8e8; padding: 0px; }
+
+.footer-heading { display: none; }
+
 /*# sourceMappingURL=main.css.map */
