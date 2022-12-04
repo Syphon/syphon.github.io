@@ -71,6 +71,13 @@ If you’d like to get involved, join us at the [GitHub projects](http://github.
 
 {% endfor %}
 
+	<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input 	type="hidden" name="cmd" value="_s-xclick">
+		<input type="hidden" name="hosted_button_id" value="C98K2YZNQ8YSW">
+		<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+		<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+
 </div>
 Syphon is designed for and by new media technologists, realtime video artists and visualists. It is a labor of love, developed in the spare time of the authors. It is open, free and a gift to the new media community. If Syphon is useful to you or an application you are developing, please consider contributing or sponsoring to help continue development and support the cause.
 
