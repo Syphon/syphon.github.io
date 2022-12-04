@@ -15,7 +15,7 @@ title: "Syphon Recorder"
 
 ## Download
 
-[Download Syphon Recorder (version 18)](http://bit.ly/h1cLS5)
+[Download Syphon Recorder (version 19)](https://6a64.xyz/downloads/Syphon%20Recorder.zip)
 
 The previous version, 15, is [available here](http://syphon.v002.info/downloads/Syphon%20Recorder15.zip). It does not support macOS Catalina.
 
