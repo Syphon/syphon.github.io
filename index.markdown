@@ -17,7 +17,10 @@ Syphon is an [open source](http://github.com/syphon) Mac OS X technology that al
 
 Syphon provides an ecosystem for sharing imagery between applications and new media development environments. Syphon is designed to be efficient and will not duplicate resources unnecessarily, keeping your frame rate and best interests in mind.
 
-* Hardware acceleration on the GPU - Servers and Clients share video on the graphics card - where it belongs, allowing for HD or larger video at 60 FPS
+* Hardware acceleration on the GPU where it belongs. No additional latency with GPU transfers.
+* Zero Copy by leveraging IOSurface
+* Support arbitrary resolutions - up to your GPU's limit. Typically 16k x 16k
+* Support abritrary frame rates.
 * Alpha-channels - share rendered 3D content and video with masks and keys, allowing compositing to happen easily and naturally.
 * A simple SDK so developers can add Syphon to just about any application
 * Compatible with MacOS X 10.6 (Snow Leopard) or later.
