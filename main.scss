@@ -1,0 +1,12 @@
+body { background: #242434; color: #eee; }
+
+.wrapper { max-width: -webkit-calc(1024px - (30px * 2)); max-width: calc(1024px - (30px * 2)); }
+
+@media screen and (max-width: 1024px) { .wrapper { max-width: -webkit-calc(1024px - (30px)); max-width: calc(1024px - (30px));  } }
+
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #fff; text-decoration: underline; }
