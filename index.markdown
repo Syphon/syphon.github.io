@@ -61,6 +61,15 @@ If you’d like to get involved, join us at the GitHub projects for the framewor
 
 # Proudly Sponsored By
 
+<div align="center" style="margin-bottom:20px; margin-top:20px">
+
+{% for sponsor in site.sponsors %}
+
+<a href="{{ sponsor.website }}" title="{{sponsor.title}}"><img src="sponsors/{{sponsor.icon}}" style="padding:10px"></a>
+
+{% endfor %}
+
+</div>
 Syphon is designed for and by new media technologists, realtime video artists and visualists. It is a labor of love, developed in the spare time of the authors. It is open, free and a gift to the new media community. If Syphon is useful to you or an application you are developing, please consider contributing or sponsoring to help continue development and support the cause.
 
 
