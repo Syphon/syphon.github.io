@@ -5,7 +5,9 @@
 layout: home
 ---
 
-
+<div style="position:absolute; top:-80px;left:calc(50% - 1024px/2 - 64px)">
+<img src="SyphonIconLarge.png" width="386" height="386">
+</div>
 
 # Introducing Syphon
 
